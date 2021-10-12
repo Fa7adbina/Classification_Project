@@ -1,1 +1,4 @@
-# Classification_Project3
+# Classification_Project
+
+
+Classification Project to predict sentiment from reviews
